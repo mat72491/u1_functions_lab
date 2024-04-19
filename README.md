@@ -93,21 +93,15 @@ const nums = [1, 3, 6, 9, 11, 15, 21, 25, 28, 30, 32, 34, 36, 40, 44, 45]
 }
 
 // BONUS
-const sumSquareAllNums = (nums) => {
+
+```js
+
+
+const newNums = [1, 2, 3, 4, 5, 6, 7, 8, 9 ]
+
+const sumSquareAllNums = (newNums) => {
   /**
-   * Use .reduce to return the total sum of each number to the second power
-   * @param {[Number]} arr will contain numbers from 1-15
-   * Your final result should be 1240
+   * Use .reduce to return the total sum of each number to the second power (what would PEMDAS say about this?)
    */
 }
-const addAllAges = (nums) => {
-  /**
-   * Use .reduce to return the total sum of all ages in the provided arr
-   * The arr parameter contains:
-      { name: 'Carl', age: 30 },
-      { name: 'Cara', age: 10 },
-      { name: 'Carmen', age: 15 }
-    ]
-    Your final result should be 55
-   */
-}
+
