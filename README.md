@@ -3,7 +3,7 @@
 
 1.  Write a function called logIn that takes your name as a parameter and console.logs 'Hello /your name/!' when it is called
 
-2.  Take that function up a notch by creating a new variable called isLoggedIn, that logs 'Hello /your name/!' when the variable is true, or "please log in" when it is false
+2.  Take that same function up a notch by creating a new variable called isLoggedIn, and have the function log 'Hello /your name/!' when the variable is true, or "please log in" when it is false
 
 3. We are looking to re-sod our lawn. It has a length of 20' and a width of 30', with Sod costing $1.45/sqft. Additionally, it will cost $100 to have thew work done.  Write a function that finds the area of the lawn, the price of the Sod, and what the total cost will be to get the lawn redone. If our budget is $700, will it be enough? Log either how much extra we will need, or how much we will have left over
 
