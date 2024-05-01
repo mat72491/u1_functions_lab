@@ -7,7 +7,7 @@
 
 3. We are looking to re-sod our lawn. It has a length of 20' and a width of 30', with Sod costing $1.45/sqft. Additionally, it will cost $100 to have thew work done.  Write a function that finds the area of the lawn, the price of the Sod, and what the total cost will be to get the lawn redone. If our budget is $700, will it be enough? Log either how much extra we will need, or how much we will have left over
 
-4.  Write a function that loops over the following array of SEI students and prints out their name, and how many letters their name is
+4.  Write a function that loops over the following array of SEBR students and prints out their name, and how many letters their name is
 
 ```js
 const students = [
