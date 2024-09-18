@@ -1,4 +1,4 @@
-## SEBR0429
+## SEBR0916
 ### Functions Exercise:
 
 1.  Write a function called logIn that takes your name as a parameter and console.logs 'Hello /your name/!' when it is called. (/your name/ should be your name written as a literal)
